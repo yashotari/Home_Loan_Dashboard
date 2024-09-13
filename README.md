@@ -39,9 +39,6 @@ For viewing and interacting with the dashboard:
 ## Collaboration Expectations
 - Contributions and feedback are welcome through issues and pull requests.
 - Please follow the repository's guidelines for contributions.
-- Respect the licensing and data usage terms as applicable to the dataset.
 
-## Contact
-For any questions or suggestions, feel free to reach out:
-- Email: 'yashorari11@gmail.com' 
-- LinkedIn: 'https://www.linkedin.com/in/yashotari/'
+Feel free to contact me for any questions or suggestions!
+
